@@ -42,7 +42,7 @@ body {
 .card-deck{
   display:grid;
   /* grid-template-columns: repeat(3,1fr); */
-  gap: 10px;
+  gap: 4%;
   grid-template-columns: repeat(6, calc(50% - 40px));
   grid-template-rows: minmax(150px, 1fr);
   grid-auto-flow: row;
