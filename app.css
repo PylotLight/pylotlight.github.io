@@ -420,6 +420,7 @@ button:focus+.design-container {
 body > div > div:nth-child(5) > div > div > a > figure > img {
   left: -270px;
   position: relative;
+  z-index: -1;
 }
 /* Media Queries */
 
