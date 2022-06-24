@@ -419,7 +419,7 @@ button:focus+.design-container {
 /* Media Queries */
 
 @media only screen and (min-width: 500px){
-.card-deck {grid-template-columns: repeat(6, calc(15% - 10px));
+.card-deck {grid-template-columns: repeat(6, calc(13% - 10px));
             gap: 20px;
             justify-content: center;
           }
