@@ -416,6 +416,11 @@ button:focus+.design-container {
   font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
 
 }
+
+body > div > div:nth-child(5) > div > div > a > figure > img {
+  left: -270px;
+  position: relative;
+}
 /* Media Queries */
 
 @media only screen and (min-width: 500px){
