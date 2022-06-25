@@ -425,8 +425,8 @@ body > div > div:nth-child(5) > div > div > a > figure > img {
 /* Media Queries */
 
 @media only screen and (min-width: 500px){
-.card-deck {grid-template-columns: repeat(6, calc(13% - 10px));
-            gap: 20px;
+.card-deck {grid-template-columns: repeat(6, calc(14% - 10px));
+            gap: 10px;
             justify-content: center;
           }
 
